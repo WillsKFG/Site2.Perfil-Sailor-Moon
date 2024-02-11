@@ -1,0 +1,33 @@
+
+body {
+background-image: url("https://images3.alphacoders.com/132/1329414.png");
+background-size: cover;
+  margin: auto;
+  padding: 15px;
+  text-align: center;
+}
+
+h1{
+    color: aliceblue;
+    font-style: oblique;
+}
+
+p{
+    font-style: normal;
+    color: rgb(247, 255, 171);
+}
+
+h2{
+    color:aliceblue;
+}
+
+a{
+    color: antiquewhite;
+}
+
+p2
+{
+
+    font-style: normal;
+    color: whitesmoke;
+}
