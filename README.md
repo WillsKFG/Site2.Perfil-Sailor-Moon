@@ -50,16 +50,6 @@ Para ver este site no seu navegador, siga os passos abaixo:
 
 ---
 
-## 💡 Próximos Passos e Melhorias
-
--   [ ] Adicionar responsividade para que o site se adapte melhor a diferentes tamanhos de tela (celulares, tablets).
--   [ ] Incluir animações ou transições mais suaves nos elementos.
--   [ ] Refatorar o CSS para usar variáveis e uma estrutura mais modular.
--   [ ] Adicionar um formulário de contato simples (com HTML).
--   [ ] Explorar JavaScript para interatividade adicional (ex: um carrossel de imagens).
-
----
-
 ## 🤝 Contribuições
 
 Sinta-se à vontade para explorar o código, sugerir melhorias ou dar feedback. Toda contribuição é bem-vinda!
